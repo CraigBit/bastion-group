@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bastion-group/static/css/main.49943520.css",
+    "main.css": "/bastion-group/static/css/main.4699f713.css",
     "main.js": "/bastion-group/static/js/main.a5fd3625.js",
     "static/media/contact-field.svg": "/bastion-group/static/media/contact-field.e52abaa2bdd1a9a8fccfe21e1ea00f06.svg",
     "static/media/footer-black.jpg": "/bastion-group/static/media/footer-black.95d93c038248f3d2995f.jpg",
@@ -40,11 +40,11 @@
     "static/media/filter-arrow-down.svg": "/bastion-group/static/media/filter-arrow-down.a0a9d3f9e6896a332e430659b8894d22.svg",
     "static/media/arrow-item-list.svg": "/bastion-group/static/media/arrow-item-list.e22162696ae1ca7f41c6.svg",
     "static/media/description-arrow-up.svg": "/bastion-group/static/media/description-arrow-up.8e48e66af3f463f19b19.svg",
-    "main.49943520.css.map": "/bastion-group/static/css/main.49943520.css.map",
+    "main.4699f713.css.map": "/bastion-group/static/css/main.4699f713.css.map",
     "main.a5fd3625.js.map": "/bastion-group/static/js/main.a5fd3625.js.map"
   },
   "entrypoints": [
-    "static/css/main.49943520.css",
+    "static/css/main.4699f713.css",
     "static/js/main.a5fd3625.js"
   ]
 }
